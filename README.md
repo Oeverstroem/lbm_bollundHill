@@ -1,3 +1,3 @@
-# lbm_bollundHill
+# lbm_bolundHill
 
-Bollund Hill Blind test study with Palabos
+Bolund Hill Blind test study with Palabos
